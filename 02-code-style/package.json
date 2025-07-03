@@ -1,0 +1,11 @@
+{
+  "name": "02-code-style",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dicoding",
+  "license": "ISC",
+  "description": ""
+}
